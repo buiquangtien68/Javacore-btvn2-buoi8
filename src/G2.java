@@ -9,7 +9,7 @@ public class G2 {
 
     @Override
     public String toString() {
-        return "SKT{" +
+        return "G2{" +
                 "name='" + name + '\'' +
                 ", position='" + position + '\'' +
                 '}';

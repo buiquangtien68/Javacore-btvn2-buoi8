@@ -14,10 +14,10 @@ public class SummonRift {
 
     @Override
     public String toString() {
-        return "SummonRift{" +
-                "sktList=" + sktList +
-                ", g2List=" + g2List +
-                ", timeOfMatch=" + timeOfMatch +
+        return "SummonRift{" +"\n"+
+                "sktList=" + sktList +"\n"+
+                "g2List=" + g2List +"\n"+
+                "timeOfMatch=" + timeOfMatch +"\n"+
                 '}';
     }
 }
